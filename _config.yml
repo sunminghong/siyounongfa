@@ -1,0 +1,14 @@
+exclude: _bak, _sites
+markdown: rdiscount
+pygments: false
+plugins: ./_plugins
+excerpt_separator: " "
+
+title: 四有自然农庄 
+url: http://siyou.5d13.cn
+feed: /atom.xml
+author:
+    name: 心农
+    email: 5d13.cn@gmail.com
+    twitter: http://weibo.com/5d13cn
+description: “本站是 心农 学习了自然农法/自然农业、生态农业、朴门永续设计等等相关书籍、视频后的整理总结、笔记以及实践实录
